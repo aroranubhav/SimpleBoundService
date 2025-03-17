@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleBoundService</string>
+    <string name="start_service">Start Service</string>
 </resources>
